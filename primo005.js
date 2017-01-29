@@ -25,7 +25,7 @@ let resultArr = [];
 
 for (let i = 0; i <= process.argv[2]-3 ; i++) {
 
-	var funNumber = process.argv[2]/arrPri2[i]
+	let funNumber = process.argv[2]/arrPri2[i]
 	
 	//console.log(funNumber);
 
